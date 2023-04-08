@@ -1,0 +1,20 @@
+.weather-temperature{
+    font-size: 45px;
+    color:gray
+}
+.weather-humidity {
+    font-size: 45px;
+    color:gray
+}
+.weather-feelLikes{
+    font-size: 45px;
+    color:gray
+}
+.weather-city{
+    font-size: 20px;
+    color:gray;
+}
+.info{
+    display: flex;
+    justify-content: center
+}
